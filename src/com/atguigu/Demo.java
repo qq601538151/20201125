@@ -10,6 +10,7 @@ public class Demo {
     public static void main(String[] args) {
         while (true) {
             System.out.println(new Random().toString());
+            System.out.println("One");
         }
     }
 }
